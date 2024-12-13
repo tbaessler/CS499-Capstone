@@ -11,5 +11,6 @@ Key features include:
 * **Methods implementation:** Methods were implemented to handle check-ins, manage space, and process pet data.
 * **Error handling and User Interaction:** The system includes error handling and a user-friendly interface, ensuring smooth operations.
 * **Best practices:** The project emphasizes modularity, maintainability, and proper testing and debugging techniques.
+<br>
 
 While completing this code, I have learned the importance of documentation and maintaining a clear project structure, which will guide me in future projects and enhancements. 
